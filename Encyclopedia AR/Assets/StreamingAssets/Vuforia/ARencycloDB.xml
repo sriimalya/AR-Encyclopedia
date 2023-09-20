@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Elephant" size="6.000000 3.375000" />
+    <ImageTarget name="SolarSys" size="6.000000 3.375000" />
+    <ImageTarget name="Spinosaurus-header-1024x614" size="6.000000 3.597656" />
+    <ImageTarget name="TyrannoDiano" size="6.000000 3.286307" />
+  </Tracking>
+</QCARConfig>
